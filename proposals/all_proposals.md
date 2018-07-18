@@ -115,12 +115,23 @@ As we can see, there is a trend towards big monopoly power within the tech indus
 Of course the monopoly power is extremely harmful and dangerous. Thus we need to find ways to promote cooperative production without the need for mega-corporation. One extremely successful model here is open-source/free software: It encourages cooperation: while everyone can benefit from the existing base of software, the model also encourages the contribution to this pool.
 <lynX> Free/Open Source software was one of the winning ingredients of Google and subsequent monopolists. When it came to making a product they moved the code to the private realm, just like it is described with research above. FLOSS alone is not the solution, it needs supporting legislation.
 
-Free/Open Source software is also the only way to guarantee real security on the net: Only when the code is open to be studied by everyone can we be sure that there are no back-doors hidden in the code.Thus we need to foster the model of Free Software/Open Source and also try to apply it to other fields of science and technology. With the rise of 3D-Printing and other computerized technologies, the realm of physical production becomes more and more similar to that of software production. Thus the same rules make sense there.Political demands here would be:* Make Free Software/Open Source mandatory for all public institutions and publicly funded projects.* Public financing of strategic free software/open-source projects.* Demand "Open Access" for all scientific research.* Abolish the patent system. (Gradually removing the scope and lenght of patent zero). Instead we need to gradually replace it with a system, where we demand that all products sold need to come with full receipts, source code, descriptions of production processes, etc. * The above is also in line with the "Right to Repair". Products need to be constructed in a way so that they can be repaired and come with full schematics. (Years ago every TV-set came with full schematics, now this is rather rare).* As a preliminary step we need to demand interoperability: Full documentation of all interfaces. (In the end not only the surface (interfaces) should be open but the underlying code as well. See that demands above).
+Free/Open Source software is also the only way to guarantee real security on the net: Only when the code is open to be studied by everyone can we be sure that there are no back-doors hidden in the code.Thus we need to foster the model of Free Software/Open Source and also try to apply it to other fields of science and technology. With the rise of 3D-Printing and other computerized technologies, the realm of physical production becomes more and more similar to that of software production. Thus the same rules make sense there.Political demands here would be:
+
+* Make Free Software/Open Source mandatory for all public institutions and publicly funded projects.
+* Public financing of strategic free software/open-source projects.
+* Demand "Open Access" for all scientific research.
+* Abolish the patent system. (Gradually removing the scope and lenght of patent zero). Instead we need to gradually replace it with a system, where we demand that all products sold need to come with full receipts, source code, descriptions of production processes, etc. 
+* The above is also in line with the "Right to Repair". Products need to be constructed in a way so that they can be repaired and come with full schematics. (Years ago every TV-set came with full schematics, now this is rather rare).
+* As a preliminary step we need to demand interoperability: Full documentation of all interfaces. (In the end not only the surface (interfaces) should be open but the underlying code as well. See that demands above).
 <lynX> DiEM is not in government, therefore it should not confuse electorate with "preliminary" steps. It should promote the long-term vision for fair technology that doesn't suck. Proprietary technology should not be legal for any societally critical applications.
 
 Data Protection and Privacy
 
-As pointed out above: The only real protection is with free/open source software. When it comes to the evasion of our privacy there are 2 major factors here:1.) spying by governments via there secret service organisations.2.) private data collection by corporations.As for 2.: The main motivation for private data collection is advertising.Advertising in itself is harmful to our society. It creates artificial demands. Its only product is the creation of discontent. People wanting more and not being happy with what they have. As the ecologic footprint of this is destroying our environment we need to cut down on the logic that forces constant growth anyway. Thus we should either put high taxes on advertising, or outright outlaw it. Also cutting down on trademark protection should remove incentives for advertising. – 
+As pointed out above: The only real protection is with free/open source software. When it comes to the evasion of our privacy there are 2 major factors here:
+1.) spying by governments via there secret service organisations.
+2.) private data collection by corporations.
+As for 2.: The main motivation for private data collection is advertising.
+Advertising in itself is harmful to our society. It creates artificial demands. Its only product is the creation of discontent. People wanting more and not being happy with what they have. As the ecologic footprint of this is destroying our environment we need to cut down on the logic that forces constant growth anyway. Thus we should either put high taxes on advertising, or outright outlaw it. Also cutting down on trademark protection should remove incentives for advertising. – 
 
 <lynX> Outlawing advertising is a worthwhile thought. It is rarely ever used to inform us of the existence of some new product and most of the time manipulating us, especially everyone below 20 years of age or so (when advertising actually works best — check research on the subject). This is beyond the scope of our pillar, but we could certainly forbid all kinds of surveillance-based and individualised advertisement built on psychological manipulation by disabling certain features of HTTP and Javascript *by law*. No web browser is allowed to support them. No web server in Europe must try to employ them.
 
@@ -178,22 +189,24 @@ Solution:
 A decentralised, anonymous, autonomous, encrypted peer-to-peer-network (as opposed to the Siren Servers described by Lanier ).
 This peer-to-peer has to incorporate the following specifications:
 
-→ All data on the network is encrypted (even sites and blogs – decrypted upon access)
-→ Serverless and decentralized
-→ The network creates and maintains itself automatically
-→ Ensures Anonymity
-→ Ensures Net Neutrality
-→ A proxy node obfuscates the clients' (and vaults) location (= IP address in the current broken Internet)
-→ Data is stored on hardware and transferred via bandwidth provided by users (so-called Farmers on so-called Vaults)
-→ Allows to implement a micropayment system (e.g. users pay for data storage) — Incentive!
-→ individual files are split up into pieces (e.g. 1 MByte) , encrypted and spread out over the network (tech detail)
-→ Popular Data is being spread increasingly (to where it is demanded) ensuring a growing availability for e.g. popular websites
-→ no person has a complete overview over the network (given a minimum size)
-→ The bigger the network becomes, the more secure it will get
-→ Older Vaults will earn more credibility by doing Proof of Resource (Bandwidth / CPU-Power / Low Downtime) — (tech detail, could also be solved differently)
+- All data on the network is encrypted (even sites and blogs – decrypted upon access)
+- Serverless and decentralized
+- The network creates and maintains itself automatically
+- Ensures Anonymity
+- Ensures Net Neutrality
+- A proxy node obfuscates the clients' (and vaults) location (= IP address in the current broken Internet)
+- Data is stored on hardware and transferred via bandwidth provided by users (so-called Farmers on so-called Vaults)
+- Allows to implement a micropayment system (e.g. users pay for data storage) — Incentive!
+- individual files are split up into pieces (e.g. 1 MByte) , encrypted and spread out over the network (tech detail)
+- Popular Data is being spread increasingly (to where it is demanded) ensuring a growing availability for e.g. popular websites
+- no person has a complete overview over the network (given a minimum size)
+- The bigger the network becomes, the more secure it will get
+- Older Vaults will earn more credibility by doing Proof of Resource (Bandwidth / CPU-Power / Low Downtime) — (tech detail, could also be solved differently)
+
 Demands to public infrastructure:
-→ The EU has to set up a European Safe Networking Fund that encourages research on an open-source and easy-to-use solution implementing the specifications mentioned above.
-→ The EU provides bootstrap servers and minimum amount of storage capacity (storing encrypted data chunks) to get the network up and running.
+
+- The EU has to set up a European Safe Networking Fund that encourages research on an open-source and easy-to-use solution implementing the specifications mentioned above.
+- The EU provides bootstrap servers and minimum amount of storage capacity (storing encrypted data chunks) to get the network up and running.
 What else?
 The Farmers (users that provide hardware and bandwidth) don’t know what they are storing
 The User accesses the network using a Client (e.g. embedded in a Browser). Every user has a so-called Vault that allows the network to store data on their devices → Farmers
