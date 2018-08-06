@@ -64,7 +64,7 @@ We propose an evolutionary boost for the INTERNET which we want to achieve by so
 
 The structures proposed on the following pages will also implement a reasonable business model to attract private investors without sacrificing the safety and data autonomy of the user/citizens.
 
-#### European Autonomous Data Network (P6)[https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network]
+#### European Autonomous Data Network (https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network)[P6]
 
 The basic structure for our next level INTERNET will be the European Autonomous Data Network (EADN). By proposing this we identify the centralized structure of the INTERNET as a main issue for its current deformation. Contemporary cloud computer services are oligopolistic, unsecure and privately controlled structural nodes that are harvesting our data. At the same time this centralized server structure provides a ready-made framework for government surveillance.
 
