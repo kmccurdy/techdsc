@@ -64,7 +64,7 @@ We propose an evolutionary boost for the INTERNET which we want to achieve by so
 
 The structures proposed on the following pages will also implement a reasonable business model to attract private investors without sacrificing the safety and data autonomy of the user/citizens.
 
-#### European Autonomous Data Network (https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network)[P6]
+#### European Autonomous Data Network [P6](https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network)
 
 The basic structure for our next level INTERNET will be the European Autonomous Data Network (EADN). By proposing this we identify the centralized structure of the INTERNET as a main issue for its current deformation. Contemporary cloud computer services are oligopolistic, unsecure and privately controlled structural nodes that are harvesting our data. At the same time this centralized server structure provides a ready-made framework for government surveillance.
 
@@ -78,11 +78,11 @@ Furthermore we propose that the EU provides bootstrap servers and a minimum amou
 
 To ensure the competitiveness of such a system further legislation might be necessary, both to ensure proof of competence as well as to prevent big players of distorting the decentralized structure of  the network.
 
-#### Platform independent and safe Social Media Infrastructure and Online Publishing (P1)[https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund]
+#### Platform independent and safe Social Media Infrastructure and Online Publishing [P1](https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund)
 
 We believe that internet users have the right to express their opinion and to reach people who like their opinion and to get updates on their favourite celebrities sexlife without being subject to surveillance and targeted advertising. Also we believe that internet users have the right to build a sustainable network of online contacts without having to trust an internet oligopolist on safeguarding their data. We need a system where it is safe for us to share whatever we want with our family and friends without the risk to share it with third parties. 
 
-At present the opposite is the case: Information about personal characteristics and behaviors is linked, combined and utilized across companies, databases, platforms, devices, and services in real-time. Individuals are constantly surveyed and evaluated, categorized and grouped, rated and ranked, numbered and quantified, included or excluded,  and, as a result, treated differently. (P8)[https://github.com/kmccurdy/techdsc/wiki/P8-Tech-Pillar-Suggestions-DSC-Lower-Austria]
+At present the opposite is the case: Information about personal characteristics and behaviors is linked, combined and utilized across companies, databases, platforms, devices, and services in real-time. Individuals are constantly surveyed and evaluated, categorized and grouped, rated and ranked, numbered and quantified, included or excluded,  and, as a result, treated differently. [P8](https://github.com/kmccurdy/techdsc/wiki/P8-Tech-Pillar-Suggestions-DSC-Lower-Austria)
 
 While there are alternatives in place for nearly every service provided by an internet oligopolist (e.g. Mastodon, Diaspora etc.) it is next to impossible to gather a critical mass of users on any of those alternatives - and thus makes them insufficient as an alternative.
 
@@ -97,11 +97,11 @@ One of the technologies we consider as promising to reach the objective mentione
 
 ##(waiting on comments by Claudio about the extent of this proposal, An existing document or container standard that supports your idea and  a legal policy that would make it mandatory for publishing platforms to accept a uniform simple document upload format)
 
-To allow content producers to be rewarded for their work (be it art, text, image, video, music, podcast, live stream or whatever might come up in the future) we propose a mandatory anonymous micropayment system by which any content can be bought for a few cents. (See e.g. taler.net for an example) (P4)[https://github.com/kmccurdy/techdsc/wiki/P4-Input-DSC-Vienna2] & Comments on that Proposal by Carlo von Lynx
+To allow content producers to be rewarded for their work (be it art, text, image, video, music, podcast, live stream or whatever might come up in the future) we propose a mandatory anonymous micropayment system by which any content can be bought for a few cents. (See e.g. taler.net for an example) [P4](https://github.com/kmccurdy/techdsc/wiki/P4-Input-DSC-Vienna2) & Comments on that Proposal by Carlo von Lynx
 
 Once those tools and accompanying legislation are implemented targeted advertising will become impossible and unnecessary while an effective and fair revenue system will replace it.
 
-#### Short-term measures (P9)[https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)] & Accompanying e-mail communication
+#### Short-term measures [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) & Accompanying e-mail communication
 
 As long as the measures outlined above are being developed and deployed we propose short-term measures to limit the damage that the current structure of the internet performs. Some of these short term measures have already been part of the original draft of the e-Privacy Regulation. The e-Privacy Regulation is meant to be the main framework to protect online communication and is currently being "watered down" by the European Council.
 
