@@ -50,9 +50,9 @@ Which sub-chapters do we need and what is their story that ties into the larger 
 
 How do we select and order the proposals in their "importance" for the policies? => question for us drafting it and for the feedback process... 
 
-### Re:inventing a free, secure and decentralized internet
+# Re:inventing a free, secure and decentralized internet
 
-#### European Data/Platform Autonomy
+## European Data/Platform Autonomy
 
 Those who are old enough to have experienced the INTERNET in the late 1990ies will remember how radical it felt to have a decentralized (rhizomatic) network of interconnected computers unaffected by the hegemonic discourse of traditional media outlets and arbitrary governmental control. This INTERNET and its accompanying promise of a new, progressive age of unlimited and uncontrolled communication is long gone. Instead the INTERNET has become a medieval marketplace where everyone is keen to sacrifice safety, responsibility and sustainability for a quick dime.  
 
@@ -64,7 +64,7 @@ We propose an evolutionary boost for the INTERNET which we want to achieve by so
 
 The structures proposed on the following pages will also implement a reasonable business model to attract private investors without sacrificing the safety and data autonomy of the user/citizens.
 
-#### European Autonomous Data Network [P6](https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network)
+### European Autonomous Data Network [P6](https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network)
 
 The basic structure for our next level INTERNET will be the European Autonomous Data Network (EADN). By proposing this we identify the centralized structure of the INTERNET as a main issue for its current deformation. Contemporary cloud computer services are oligopolistic, unsecure and privately controlled structural nodes that are harvesting our data. At the same time this centralized server structure provides a ready-made framework for government surveillance.
 
@@ -78,7 +78,7 @@ Furthermore we propose that the EU provides bootstrap servers and a minimum amou
 
 To ensure the competitiveness of such a system further legislation might be necessary, both to ensure proof of competence as well as to prevent big players of distorting the decentralized structure of  the network.
 
-#### Platform independent and safe Social Media Infrastructure and Online Publishing [P1](https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund)
+### Platform independent and safe Social Media Infrastructure and Online Publishing [P1](https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund)
 
 We believe that internet users have the right to express their opinion and to reach people who like their opinion and to get updates on their favourite celebrities sexlife without being subject to surveillance and targeted advertising. Also we believe that internet users have the right to build a sustainable network of online contacts without having to trust an internet oligopolist on safeguarding their data. We need a system where it is safe for us to share whatever we want with our family and friends without the risk to share it with third parties. 
 
@@ -101,12 +101,12 @@ To allow content producers to be rewarded for their work (be it art, text, image
 
 Once those tools and accompanying legislation are implemented targeted advertising will become impossible and unnecessary while an effective and fair revenue system will replace it.
 
-#### Short-term measures 
-[P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) & Accompanying e-mail communication
+### Short-term measures 
+[P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) (& Accompanying e-mail communication)
 
 As long as the measures outlined above are being developed and deployed we propose short-term measures to limit the damage that the current structure of the internet performs. Some of these short term measures have already been part of the original draft of the e-Privacy Regulation. The e-Privacy Regulation is meant to be the main framework to protect online communication and is currently being "watered down" by the European Council.
 
-## Privacy by design / Privacy by default
+#### Privacy by design / Privacy by default
 We are very concerned about  the de facto standard of insecure communications via unencrypted emails and messenger apps. Unauthorised access to a computer system is a crime under EU legislation (Directive 2013/40/EC). Following this logic we consider it unacceptable that unauthorised access to an individual’s computer system could be permitted by default.
 We demand Privacy by design and Privacy by default as a mandatory standard for all hardware and software developed, sold and used in the EU.
 
@@ -114,16 +114,16 @@ Privacy by design means that all stages of the creation of the hardware and soft
 
 Thereby we explicitly include the necessity to provide an incentive to develop technical solutions where citizens can provide location data to so called location-based-services without any privacy risks. Technical solutions based on local computation in the end-user’s device should always be preferred over centralised tracking.
 
-## Reasonable Regulation of User Consent 
+#### Reasonable Regulation of User Consent 
 Regarding User Consent we advocate a regulation that ensures that Software, Apps and Smart Devices are seeking for consent as user-friendly as possible and only for permissions that are crucial to perform their main task(s). Instead of being asked for general consent upon installation the user shall be asked to Opt-In for every task that the Software/App/Smart Device wishes to perform on their device. „All-or-Nothing“ consent - e.g. a mandatory general consent for the Software/App/Smart Device to function - is most likely NOT in accordance with the GDPR.
 
-## Communication Data / Metadata Protection
+#### Communication Data / Metadata Protection
 Communication Data (email, voice mail, chat, videoconference, VoIP) is sensitive data and there shall be no „legitimate interest“ exception to use this data without explicit user consent (see above). Metadata processed for security and QoS purposes should be anonymised as soon as possible and the storage of metadata should be limited to what is strictly necessary for the designated purpose. 
 
-## Tracking Regulation
+#### Tracking Regulation
 To protect users against third party tracking, we demand that so-called cookie walls - notification windows that prevent access to a service if users do not agree to terms of service - should be prohibited. Also we embrace a prohibition of the common practice of excluding users that use ad-blocking or likewise protection software. We strongly demand this to be implemented asap to websites  that offer public services, services that are financed by public funds or medical services. 
 
-## Providers Disclosure Regarding Law Enforcement
+#### Providers Disclosure Regarding Law Enforcement
 Providers of electronic communication services should be obliged to publish all requests received by law enforcement agencies or comparable state agencies. This publication should include the number of requests received from law enforcement agencies, the legal justification invoked and the provider’s response in a meaningful aggregated format. We consider this to be a matter of public interest and transparency towards public authorities.
 
 
