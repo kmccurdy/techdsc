@@ -101,17 +101,30 @@ To allow content producers to be rewarded for their work (be it art, text, image
 
 Once those tools and accompanying legislation are implemented targeted advertising will become impossible and unnecessary while an effective and fair revenue system will replace it.
 
-#### Short-term measures [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) & Accompanying e-mail communication
+#### Short-term measures 
+[P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) & Accompanying e-mail communication
 
 As long as the measures outlined above are being developed and deployed we propose short-term measures to limit the damage that the current structure of the internet performs. Some of these short term measures have already been part of the original draft of the e-Privacy Regulation. The e-Privacy Regulation is meant to be the main framework to protect online communication and is currently being "watered down" by the European Council.
 
-We are very concerned about  the de facto standard of insecure communications via unencrypted emails and messenger apps. We demand Privacy by design and Privacy by default as a mandatory standard for all hardware and software developed, sold and used in the EU.
+## Privacy by design / Privacy by default
+We are very concerned about  the de facto standard of insecure communications via unencrypted emails and messenger apps. Unauthorised access to a computer system is a crime under EU legislation (Directive 2013/40/EC). Following this logic we consider it unacceptable that unauthorised access to an individual’s computer system could be permitted by default.
+We demand Privacy by design and Privacy by default as a mandatory standard for all hardware and software developed, sold and used in the EU.
 
-Privacy by design means that all stages of the creation of the hardware and software incorporates a high level of protection of the users privacy. Privacy by default means that our devices and software are set to protect our data, with options to change this, if we wish. 
+Privacy by design means that all stages of the creation of the hardware and software incorporates a high level of protection of the users privacy. Privacy by default means that our devices and software are set to protect our data, with options to change this, if we wish.
 
-Regarding User Consent we advocate a regulation that ensures that Software and Apps are seeking for consent as user-friendly as possible and only for permissions that are crucial to perform their main task(s). Instead of being asked for general consent upon installation the user shall be asked to Opt-In for every task that the Software/App wishes to perform on their device.
+Thereby we explicitly include the necessity to provide an incentive to develop technical solutions where citizens can provide location data to so called location-based-services without any privacy risks. Technical solutions based on local computation in the end-user’s device should always be preferred over centralised tracking.
 
-Communication Data (email, voice mail, chat, videoconference, VoIP) is sensitive data and there shall be no „legitimate interest“ exception to use this data without explicit user consent (see above).
+## Reasonable Regulation of User Consent 
+Regarding User Consent we advocate a regulation that ensures that Software, Apps and Smart Devices are seeking for consent as user-friendly as possible and only for permissions that are crucial to perform their main task(s). Instead of being asked for general consent upon installation the user shall be asked to Opt-In for every task that the Software/App/Smart Device wishes to perform on their device. „All-or-Nothing“ consent - e.g. a mandatory general consent for the Software/App/Smart Device to function - is most likely NOT in accordance with the GDPR.
+
+## Communication Data / Metadata Protection
+Communication Data (email, voice mail, chat, videoconference, VoIP) is sensitive data and there shall be no „legitimate interest“ exception to use this data without explicit user consent (see above). Metadata processed for security and QoS purposes should be anonymised as soon as possible and the storage of metadata should be limited to what is strictly necessary for the designated purpose. 
+
+## Tracking Regulation
+To protect users against third party tracking, we demand that so-called cookie walls - notification windows that prevent access to a service if users do not agree to terms of service - should be prohibited. Also we embrace a prohibition of the common practice of excluding users that use ad-blocking or likewise protection software. We strongly demand this to be implemented asap to websites  that offer public services, services that are financed by public funds or medical services. 
+
+## Providers Disclosure Regarding Law Enforcement
+Providers of electronic communication services should be obliged to publish all requests received by law enforcement agencies or comparable state agencies. This publication should include the number of requests received from law enforcement agencies, the legal justification invoked and the provider’s response in a meaningful aggregated format. We consider this to be a matter of public interest and transparency towards public authorities.
 
 
 
