@@ -143,7 +143,20 @@ Main topics:
 * Funding research for the public good & ensuring it's publicly available (open access)
 * Supporting technology education
 
-### Chapter proposal: Technology for the many / Including the excluded / Against digital exploitation
+---
+
+Our technology is the result of collaboration and co-operation between many, built on the knowledge developed and shared by previous generations. It is our responsibility to future generations to ensure that knowledge is not closed off, but actively supported, freely circulated, and made accesible to all. 
+
+* **Promotion of free and open source software** In addition to providing crucial alternatives to commercial software, open source software constitutes a vast ecosystem of decentralized intellectual labor, in which anyone with an internet connection can learn from and contribute to countless community-managed codebases, and anyone can independently verify claims about the functionality of the resulting systems. This invaluable forum should be strengthened and supported by measures such as:
+	* Securing funding for maintenance of crucial open source infrastructure
+	* Requiring public institutions adopt open source software instead of commercial
+	* Explore methods to increase the sustainability and diversity of the open source community
+* **Reform of Intellectual Property / Patent law**  
+* **Open Access for academic publications**
+* **Public funding / citizen crowdsourcing for innovative research**
+
+
+### Chapter proposal: Technological autonomy is for everyone
 
 Story / tagline: Technological autonomy is not a privilege for platform owners, but a right for all
 
@@ -154,13 +167,39 @@ Topics covered:
 * Autonomy and dignity for labor under technology (platform workers, support for cooperative platform ownership, [cf. trevor schultz], labor intelligence...)
 * Diversity and inclusion - ensuring tech sector includes and serves historically marginalized groups
 * Accessibility for tech users of different backgrounds 
-* Crowdfunding platform by citizen's 
+* Algorthmic accountability / rights w/r/t AI
+
+---
+
+Technological autonomy - the ability to use technology for your own ends, with full confidence that it is working *for* you, and not against you - is unevenly distributed: 
+CEOs of large companies take extensive measures to protect their own privacy while their workers on the job are subjected to surveillance and threatened with automation; 
+able-bodied white men experience user interfaces designed for their needs, while women [struggle to obtain crucial information on reproductive health](https://www.salon.com/2016/01/29/siri_find_me_an_abortion_provider_apples_weird_anti_choice_glitch_is_finally_on_its_way_out/), people of color [experience offensively biased and faulty facial recognition](https://www.theverge.com/2018/5/23/17384632/amazon-rekognition-facial-recognition-racial-bias-audit-data), and people with disabilities [lack support for basic accessibility to the internet](https://www.theguardian.com/technology/2015/jun/29/disabled-people-internet-extra-costs-commission-scope);
+engineers silently collect data from unsuspecting citizens, and the algorithms built on this data are in turn deployed on citizens [without transparency or disclosure](https://www.theguardian.com/technology/2018/may/11/google-duplex-ai-identify-itself-as-robot-during-calls).
+
+Technological autonomy is today a privilege enjoyed by the few, but in a just society, it would be a right exercised by all.
+
+
+* **Autonomy for workers** 
+	* Restrict abusive technological practices on the job, e.g. monitoring/surveillance
+	* Ensure protections for material security of platform workers +/ support cooperative models of ownership for platforms
+	* Fund research on cooperative intelligence / approaches to automation that maintain worker dignity
+* **Autonomy for marginalized identities**
+	* Promote diversity and inclusion in technology
+	* Ensure accessbility to technology for elderly and disabled
+	* Audit algorithms for bias in outcomes
+* **Autonomy for citizens**
+	* Rights w/r/t AI (e.g. [this proposal](https://github.com/kmccurdy/techdsc/wiki/2017-07-17-Proposal:-Algorithmic-Accountability))
+	* ? Rights w/r/t data ?
 
 ### Chapter proposal: Data autonomy / ownership
 
 Story / tagline: Your data belongs to you / our data belongs to us
 
 As discussed, this is a big topic. Could be combined with the current proposed first chapter?
+
+Topics:
+
+* Right to know who is using your data, and revoke access 
 
 ### Chapter proposal: Democratic technologies 
 
