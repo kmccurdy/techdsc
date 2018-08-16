@@ -177,6 +177,33 @@ Topics: Technologies enabling democratic participation, e.g. online voting, liqu
 -  Gender equity and inclusion in research and innovation
 
 
+organizational overview:
+
+- we need democratic control over the information / input we provide, which is used for technological ends
+  - data autonomy
+  - biometric data, different kinds of data (content we put online, ...)
+  - ? support (require?) open protocols for data ownership / data commons
+  - ? ban sale of third-party data
+  - ? carlo's proposals: ban personal data collection by proprietary agents / mandate only device-local algorithms for personalization
+- we need democratic control over the ways in which we are subjected to technology
+  - algorithmic accountability + bias (+ some definition of scope)
+  - targeting / exclusion (two-sided harms relating to representation or lack thereof in data)
+  - worker surveillance
+  - accessibility
+  - 
+- we need democratic control over the research and knowledge that powers technology
+  - open source
+  - open access
+  - intellectual property
+  - crowdfunding 
+- we need democratically-controlled technology that empowers the many and enables a better future (i.e. here come our proposals)
+  - European Autonomous Data Network (maidsafe, secushare, ...)
+  - labor intelligence
+  - public digital identity (// nationalize facebook??)
+  - data commons 
+  - platform cooperativism
+  ...
+
 
 
 
