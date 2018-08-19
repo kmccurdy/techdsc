@@ -168,22 +168,28 @@ On the other side of this dual risk, algorithmic systems trained on a dataset wh
 
 Data-driven applications are used to inform incredibly consequential outcomes for citizen's lives, from media consumption to job opportunities to [eligibility for welfare benefits](https://algorithmwatch.org/en/high-risk-citizens/). To ensure they do not reinforce inequality and manipulation, but serve the public interest, we need transparency and democratic governance over their use.
 
----
-@DRAFT todo!!
+### 2.2.1 Algorithmic accountability: Defining our rights
 
-### 2.2.1 Short-term measures: Algorithmic accountability
+[P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability) With regard to the use of algorithms in everyday life, we demand that the following rights be recognized:
 
-- auditing algorithmic output for discrimination / risk of targeting
-- establishing rights for interaction w/algorithms
-- restrict algorithmic workplace abuses, e.g. unfair scheduling, worker surveillance
+* **Right of interaction**: Citizens have the right to know when they are or aren't interacting with an algorithm.
+  * When an individual receives an outcome from a service that is based wholly or partially on algorithmic computation, this should be clearly and transparently communicated.
+  * AI is not allowed to "conceal" itself in interactions with unknowing citizens, as seen in the initial [Google Duplex tests](https://www.theverge.com/2018/6/27/17508728/google-duplex-assistant-reservations-demo).
+  * On the other side, businesses are not allowed to "conceal" human data processing to [users who believe themselves to be interacting with an algorithm](https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies).
 
-### 2.2.2 Longer-term measures: Algorithmic emancipation
+* **Right of equal treatment**: Citizens have the right to be free from algorithmic discrimination.
+  * If algorithmic services provide outputs of consistently lower value or quality to or about users coming from historically marginalized backgrounds, this constitutes discrimination ([example from google search](http://time.com/5209144/google-search-engine-algorithm-bias-racism/)).
+  * Users should be able to compare outputs based on different demographic profiles (e.g. "would this search result be the same if I were to change the gender or age the algorithm has inferred for me?").
 
-- labor intelligence - algorithmic approaches to empower rather than denigrate workers
-- ... (more to come, I hope!)
+### 2.2.2 Algorithmic emancipation: Building an intelligent, accountable future
 
-
-
+- **Public audits** ([P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability)): The EU shall develop an independent public institution to conduct algorithmic audits in a transparent manner, with resources allocated proportional to estimated scope of a) affected citizens and b) potential harms. 
+- **Opt-out** ([P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability)): An "algorithmic opt-out" rule shall be established: for any algorithmic service, a user can choose to receive an outcome with a "default" profile (i.e. with the user's personal/demographic attributes removed from calculation). 
+- **Labor intelligence** ([P15](https://github.com/kmccurdy/techdsc/wiki/P15-Labor-Intelligence---Shared-Worker-Governance---Cooperative-Intelligence)): The EU shall fund a research institute working specifically at the intersection of Artificial Intelligence and labor with the follow mandate: 
+	- It shall explore and prototype intelligent systems with various axes of worker control (i.e. ranging  from 'being designed along worker-friendly principles' to 'responsive to real-time  worker input' to 'explicity includes coorperative decision mechanism for key decisions').
+	- It shall partner with existing organizations, in particular **cooperatives** (platform and otherwise), to  apply and test systems under real-world conditions.
+	- It shall assess outcomes with particular attention to humanistic goals, quality of life, and worker-centered perspectives, emphasizing the dignity and autonomy of workers.
+	- It shall require particular attention to barriers faced by marginalized workers and workers from traditionally excluded backgrounds.
 
 # 3. Free Knowledge for democratic innovation [Joren]
 
