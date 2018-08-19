@@ -110,19 +110,77 @@ Providers of electronic communication services should be obliged to publish all 
 
 # 2. Democratising algorithms and data [Kate]
 
-- algorithmic accountability + bias (+ some definition of scope) to clarify: this includes algorithmic discrimination against marginalized identities
-- targeting / exclusion (two-sided harms relating to representation or lack thereof in data) clarification point: "targeting" here encompasses manipulation - i.e. being targeted by advertising or political actors based on your data/profile/demographic etc
-- worker surveillance
-labor intelligence 
-- accessibility
-- Renata’s piece on gender relations and AI 
-- data autonomy 
-- biometric data, different kinds of data (content we put online, ...) 
-- ? support (require?) open protocols for data ownership / data commons 
-- ? ban sale of third-party data 
-- ? carlo's proposals: ban personal data collection by proprietary agents / mandate only device-local algorithms for personalization 
-public digital identity (// nationalize facebook??) 
-data commons
+The 21st century has seen an accelerating expansion of information technology in more and more domains of everyday life, with citizens positioned both as *sources* of the data collected to accumulate privately-held wealth and enable state and commercial surveillance, and *targets* of the resulting applications, which can entail manipulation, exclusion, and other social harms. 
+
+Unfortunately, this expansion of information technology has not been accompanied by expanded democratic control, resulting in a massive concentration of wealth, power, and surveillance capabilities in a few hands, and little accountability or oversight by the public. This is the state of affairs today that Diem25 seeks to change.
+
+## 2.1 We need democratic control over data collection
+
+Data collection has always carried a dual risk: *inclusion* in certain datasets can render citizens in general, and members of marginalized groups in particular, vulnerable to being *targeted* for certain harms - but *exclusion* from datasets can lead to other harms in turn. As a non-technical example, consider the decision to identify oneself as a member of an ethnic minority on a government census. Not identifying one's ethnicity can lead to the risk of *exclusion*: perhaps if members of one's ethnic group in the relevant district are undercounted, crucial social services, such as linguistic and cultural support, will not be provided at sufficient levels to meet the community's needs. On the other hand, including data on one's ethnic identity brings with it the risk of being *targeted* by the state or an affiliated malicious actor, on which point history provides many tragic accounts of the possible consequences.
+
+How does information technology change data collection today? Mostly by making it easier than ever to collect, store, and process data at unprecedented variety and scale, thus amplifying this dual risk in both directions. To illustrate this variety, here's a partial list of the different kinds of data whose collection is facilitated by digital technology:
+
+- personal data, e.g. what you might enter into a form (name, age, sex, race, address, nationality, ...)
+- biometric data, e.g. what you might use to unlock an iPhone (face, fingerprint, ...)
+- personally authored content, e.g. what you might post on Facebook or send to a friend (text, audio, video, ...)
+- behavioral data, e.g. how you interact with a device or website (GPS location, sites visited, time spent on news feeds, clicks on ads, grip on steering wheel, ...)
+- behavioral biometric data, e.g. device interactions that identify you personally (speed of typing, direction of mouse movements, ...)
+- second-order inferred data, namely predicting a data attribute you did not provide (e.g. age or race) based on other data about you (e.g. name or location)
+
+As digital data collection extends to more and more arenas of life - our online communication and media consumption, "smart" devices in our homes and workplaces, CCTV cameras on our streets, automotive computer systems in our cars, and on and on - it becomes increasingly important that we, as citizens, know *who* collects *what* data about us for *which* purpose, and retain the choice to withold our data at will; this transparency is needed to achieve meaningful accountability for information technology, and build public trust that our data will not be used to exploit us. In cases where this trust cannot be established, we must regulate data collection, and, if necessary, ban it altogether.
+
+### 2.1.1 Reining in the data brokers: short-term measures
+
+In the near future, the most urgent priority regarding data must be to curtail its undisclosed circulation to unidentified third parties, with special attention to sensitive personal data collected for public-interest purposes. The GDPR offers an excellent starting point, and has already demonstrated that bold legislation can put the tech giants on notice - but we must go further!
+
+- **End involuntary data trading**:  For all domains in which data are collected, restrict the sale or access of individual data to third parties unless the individual providing the data expressly consents to grant that specifically named third party access, separately from granting general platform access (i.e. checking one box to 'agree to terms and conditions' will not cover third-party sharing), and separately for each named third party. (relevant proposals: [P8](https://github.com/kmccurdy/techdsc/wiki/P8-Tech-Pillar-Suggestions-DSC-Lower-Austria), L26-27; [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)), L24)<!-- no proposal with this specific wording, but the source is the current European Spring program draft, p15, point 1.3--->
+
+---
+
+@DRAFT a couple more, less-developed ideas that might belong in this section, but don't have proposals to go with them:
+
+- restrict public/private partnerships in public data collection (e.g. lockheed martin operating UK census), ESPECIALLY w/r/t law enforcement (police body cams doing facial recognition etc.)
+- right to correct data (incl. inferred data??) when it's consequential, e.g. Schufa (or the credit lists it uses), no-fly list (or EU equivalent?), ...?
+
+N.B. excluding the more specific suggestions from P9 - i.e. ratifying convention 108 and ePrivacy - as they're already in section 1
+
+---
+
+### 2.1.2 Our data belongs to us: rethinking ownership in data collection
+
+In the longer term, our vision must shift from reactive to constructive: how can we build the social infrastructure and tools to make data collection inclusive, and harness the liberatory power of technology for the public good? 
+
+- **Fund development on open, secure protocols for data ownership**: The original foundation of the open web was open protocols, enabling the routing of communication within and across networks - but platform monopolies have been able to build a proprietary data layer on top of these protocols, leading to surveillance and lock-in for users. We must actively fund development on protocols for secure routing and communication which empowers us to truly own our data, and be able to move it between platforms at will.  <!-- n.b. this proposal is based on a discussion with Ele of OSCoin - and I may be misremembering it, so I hope others with more expertise help whip this in shape! -- also, this is very related to the overall European Data Network proposal, but aims to be a bit more generic ---> (relevant proposals: [P1](https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund); [P6](https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network); [P16](https://github.com/kmccurdy/techdsc/wiki/P16-Public-Digital-Identity); [P4](https://github.com/kmccurdy/techdsc/wiki/P4-Input-DSC-Vienna2), L26; [P13](https://github.com/kmccurdy/techdsc/wiki/P13-Addition-to-proposal-Autonomous-Data-Network); [P17](https://github.com/kmccurdy/techdsc/wiki/P17-Proposal-Input-from-Carlo))
+- **Establish a public data commons**: Building and maintaining quality data resources, and ensuring their availability for applications in the public interest (e.g. scientific research, good governance analysis, etc.), provides a counterweight to the vast data stores of platform monopolies. Subject to appropriate protections, data produced by public institutions should be be made open and accessible by default; individual citizens should be able to contribute their data to the commons on a voluntary basis. 
+Public institutions engaged in the *collection* of data for the commons must also conduct a thorough stakeholder analysis, with the aim of inclusive data collection along the dimensions of gender, race, class, nationality, sexual orientation, inter alia. Institutions should assess the risks for marginalized populations associated with representation in the dataset (inclusionary harm - risk of being targeted) versus absence from the dataset (exclusionary harm). 
+(relevant proposals: [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)), L28, L122) <!-- n.b. also overlap with transparency pillar section 2.5 on open data for transparency in governance; c.f. also Renata's W20 brief, proposal 1, recommendation 4 --->
+- **Redistribute the value our data creates**: Platform monopolies have built empires of wealth on our data, but we haven't been invited to share in the proceeds. This obviously must change, although **how** that happens is a topic for debate - so please, Diemers, **give your feedback**! Some thoughts:
+	- "Data as labor": [P12](https://github.com/kmccurdy/techdsc/wiki/P12-Work-force-and-data) suggests the model of treating data producers as workers, and ensuring compensation for the value generated by their data. This proposal resonates in certain aspects with other critiques of the online data economy; see also, for example, Jaron Lanier's "Who Owns the Future?", and the [Wages for Facebook](http://wagesforfacebook.com/) campaign. [P18](https://github.com/kmccurdy/techdsc/wiki/P18-Intellectual-Property-for-Contributors) also raises the possibility of improved recognition of economic value for content providers, under a broader conception of 'content'.
+	- However, there are some strong counterpoints: [P17](https://github.com/kmccurdy/techdsc/wiki/P17-Proposal-Input-from-Carlo) suggests simply banning proprietary data collection altogether, while [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) L28  cautions against "models based on “data ownership” that envision the possibility to to trade personal data for services and benefits. It would affect the vunlnerable populations that have less resources and digital literacy and therefore enable forced trade of fundamental rights." - on which point a personal note of agreement from me: as most data collection for advertising and so on is focused on predicting consumption, it's fairly well established in the current data economy that *data from wealthier people is more valuable*, raising the risk that compensation for data could inadvertantly end up reinforcing current hierarchies and power structures.
+
+
+## 2.2 We need democratic control over data-driven applications
+
+@DRAFT todo!!
+
+- shift focus from data *collection* (last section) to *application* of collected data, usually (but not always) algorithmic
+- this is the point at which dual-risk harms are realized:
+	- inclusion/profiling in data can lead to being *targeted*, hence subject to *manipulation* (i.e. advertising, fake news etc.), or to *discrminatory* harms (e.g. women shown lower-paying ) 
+	- exclusion/underrepresentation in data can also lead to *discriminatory* harms, e.g. face recognition worse on women and racial minorities -> elevated risk of discriminatory harm from law enforcement - also issues of accessibility if elderly/disabled users of crucial technology not considered in design/development
+
+### 2.2.1 Short-term measures: Algorithmic accountability
+
+- auditing algorithmic output for discrimination / risk of targeting
+- establishing rights for interaction w/algorithms
+- restrict algorithmic workplace abuses, e.g. unfair scheduling, worker surveillance
+
+### 2.2.2 Longer-term measures: Algorithmic emancipation
+
+- labor intelligence - algorithmic approaches to empower rather than denigrate workers
+- ... (more to come, I hope!)
+
+
+
 
 # 3. Free Knowledge for democratic innovation [Joren]
 
