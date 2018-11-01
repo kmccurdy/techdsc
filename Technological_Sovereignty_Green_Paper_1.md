@@ -320,7 +320,7 @@ recognized:
 67) - Right of equal treatment: Citizens have the right to be free from algorithmic discrimination.
      - If algorithmic services provide outputs of consistently lower value or quality to or about users coming from historically marginalized backgrounds, this constitutes discrimination ([example from google search](http://time.com/5209144/google-search-engine-algorithm-bias-racism/)).
      - Users should be able to compare outputs based on different demographic profiles (e.g. "would this search result be the same if I were to change the gender or age the algorithm has inferred for me?").
-
+ 
 #### 3.2.2. Algorithmic emancipation: Building an intelligent, accountable future
 
 68) - **Public audits** ([P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability)): The EU shall develop an independent public institution to conduct algorithmic audits in
