@@ -231,6 +231,7 @@ transparency is needed to achieve meaningful accountability for information tech
 trust that our data will not be used to exploit us. In cases where this trust cannot be established, we must
 regulate data collection, and, if necessary, ban it altogether.
 
+
 #### 3.1.1. Reining in the data brokers: short-term measures
 
 54) In the near future, the most urgent priority regarding data must be to curtail its undisclosed circulation to
