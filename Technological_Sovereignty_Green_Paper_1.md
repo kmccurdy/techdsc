@@ -337,7 +337,7 @@ Artificial Intelligence and labor with the following mandate:
 	- It shall partner with existing organizations, in particular cooperatives (platform and otherwise), to apply and test systems under real-world conditions.
 	- It shall assess outcomes with particular attention to humanistic goals, quality of life, and workercentered perspectives, emphasizing the dignity and autonomy of workers.
 	- It shall require particular attention to barriers faced by marginalized workers and workers from traditionally excluded backgrounds.
-
+ 
 ## 4. Free knowledge for democratic innovation - the role of Intellectual Property and education
 
 ### 4.1. What are the issues?
