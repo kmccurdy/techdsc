@@ -315,6 +315,7 @@ recognized:
 67) - Right of equal treatment: Citizens have the right to be free from algorithmic discrimination.
      - If algorithmic services provide outputs of consistently lower value or quality to or about users coming from historically marginalized backgrounds, this constitutes discrimination .
      - Users should be able to compare outputs based on different demographic profiles (e.g. "would this search result be the same if I were to change the gender or age the algorithm has inferred for me?").
+     - Given the risk of biased outcomes in high-stakes legal decisions, algorithmic decision-making should be banned from courtrooms and police interrogations.
 
 #### 3.2.2. Algorithmic emancipation: Building an intelligent, accountable future
 
