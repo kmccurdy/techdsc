@@ -322,9 +322,9 @@ recognized:
 a transparent manner, with resources allocated proportional to estimated scope of a) affected citizens and b)
 potential harms.
 
-69) - **Opt-out** ([P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability)): An "algorithmic opt-out" rule shall be established: for any algorithmic service, a user can
+69) - **Opt-out** ([P20](https://github.com/kmccurdy/techdsc/wiki/P20-Proposal:-Algorithmic-Accountability)): An "algorithmic opt-out" rule shall be established: for any consumer algorithmic service, a user can
 choose to receive an outcome with a "default" profile (i.e. with the user's personal/demographic attributes
-removed from calculation).
+and usage history removed from calculation).
 
 70) - **Labor intelligence** ([P15](https://github.com/kmccurdy/techdsc/wiki/P15-Labor-Intelligence---Shared-Worker-Governance---Cooperative-Intelligence)): The EU shall fund a research institute working specifically at the intersection of
 Artificial Intelligence and labor with the following mandate:
