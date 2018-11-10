@@ -231,12 +231,9 @@ transparency is needed to achieve meaningful accountability for information tech
 trust that our data will not be used to exploit us. In cases where this trust cannot be established, we must
 regulate data collection, and, if necessary, ban it altogether.
 
-#### 3.1.1. Reining in the data brokers: short-term measures
+#### 3.1.1. Reining in the data brokers: regulatory measures
 
-54) In the near future, the most urgent priority regarding data must be to curtail its undisclosed circulation to
-unidentified third parties, with special attention to sensitive personal data collected for public-interest
-purposes. The GDPR offers an excellent starting point, and has already demonstrated that bold legislation can
-put the tech giants on notice - but we must go further!
+54) To gain control over our data, we need a strong regulatory apparatus to curtail its undisclosed circulation and misuse by third parties - ranging from states and powerful commercial interests to criminals and other bad actors. The GDPR offers an excellent starting point, and has already demonstrated that bold legislation can put the tech giants on notice - but we must go further!
 
 55) - **End involuntary data trading**: For all domains in which data are collected, restrict the sale or access of
 individual data to third parties unless the individual providing the data expressly consents to grant that
@@ -254,7 +251,7 @@ considered.
 
 #### 3.1.2. Our data belongs to us: rethinking ownership in data collection
 
-57) In the longer term, our vision must shift from reactive to constructive: how can we build the social
+57) Our vision must be not only reactive, but constructive: how can we build the social
 infrastructure and tools to make data collection inclusive, and harness the liberatory power of technology for
 the public good?
 
