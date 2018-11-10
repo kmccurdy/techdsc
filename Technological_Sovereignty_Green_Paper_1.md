@@ -289,20 +289,19 @@ inherit the dual risks described above, and often constitute the point at which 
 
 62) Algorithmic profiling based on given or inferred data attributes can lead to an individual being targeted for
 those attributes - indeed, that is often the point. One possible harm resulting from targeting is
-discrimination; for example, a [2015 study](http://www1.icsi.berkeley.edu/~mct/pubs/pets15.pdf) found that Google systematically delivered ads for lower-paying jobs
-to profiles identified as women job-seekers. Another possible harm receiving increased attention lately is the
+discrimination; for example, ads for lower-paying jobs
+systematically delivered to profiles identified as women job-seekers. Another plausible harm is the
 possibility an individual might be targeted for purposes of *manipulation* by third parties, ranging from
-unscrupulous advertisers (for instance, [online casinos targeting gambling addicts](https://www.theguardian.com/society/2017/aug/31/gambling-industry-third-party-companies-online-casinos)) to [political propagandists](https://www.theguardian.com/news/series/cambridge-analytica-files)
+unscrupulous advertisers (for instance, online casinos targeting gambling addicts) to political propagandists
 and promulgators of "fake news.")
 
 63)On the other side of this dual risk, algorithmic systems trained on a dataset which excludes, or
 underrepresents, a particular population - usually a historically marginalized group - offer another form of
 discriminatory harm: reduced system accuracy on that population, or reduced system capacity to serve that
-population. Examples of this include Siri [directing women](https://www.salon.com/2016/01/29/siri_find_me_an_abortion_provider_apples_weird_anti_choice_glitch_is_finally_on_its_way_out/) with reproductive health inquiries to misleadingly labeled religious anti-abortion centers, and law enforcement using facial recognition systems which are known
-to have a [higher error rate for women and people of color](https://www.theverge.com/2018/5/23/17384632/amazon-rekognition-facial-recognition-racial-bias-audit-data).
+population.
 
 64)Data-driven applications are used to inform incredibly consequential outcomes for citizen's lives, from media
-consumption to job opportunities to [eligibility for welfare benefits](https://algorithmwatch.org/en/high-risk11citizens/). To ensure they do not reinforce inequality and manipulation, but serve the public interest, we need
+consumption to job opportunities to eligibility for welfare benefits. To ensure they do not reinforce inequality and manipulation, but serve the public interest, we need
 transparency and democratic governance over their use.
 
 #### 3.2.1. Algorithmic accountability: Defining our rights
@@ -311,10 +310,10 @@ transparency and democratic governance over their use.
 recognized:
 66) - Right of interaction: Citizens have the right to know when they are or aren't interacting with an algorithm.
 	- When an individual receives an outcome from a service that is based wholly or partially on algorithmic computation, this should be clearly and transparently communicated.
-    - AI is not allowed to "conceal" itself in interactions with unknowing citizens, as seen in the initial [Google Duplex tests](https://www.theverge.com/2018/6/27/17508728/google-duplex-assistant-reservations-demo).
-    - On the other side, businesses are not allowed to "conceal" human data processing to [users who believe themselves to be interacting with an algorithm](https://www.theguardian.com/technology/2018/jul/06/artificial-intelligence-ai-humans-bots-tech-companies).
+    - AI is not allowed to "conceal" itself in interactions with unknowing citizens.
+    - On the other side, businesses are not allowed to "conceal" human data processing to users who believe themselves to be interacting with an algorithm.
 67) - Right of equal treatment: Citizens have the right to be free from algorithmic discrimination.
-     - If algorithmic services provide outputs of consistently lower value or quality to or about users coming from historically marginalized backgrounds, this constitutes discrimination ([example from google search](http://time.com/5209144/google-search-engine-algorithm-bias-racism/)).
+     - If algorithmic services provide outputs of consistently lower value or quality to or about users coming from historically marginalized backgrounds, this constitutes discrimination .
      - Users should be able to compare outputs based on different demographic profiles (e.g. "would this search result be the same if I were to change the gender or age the algorithm has inferred for me?").
 
 #### 3.2.2. Algorithmic emancipation: Building an intelligent, accountable future
