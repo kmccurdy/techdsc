@@ -1,8 +1,3 @@
 # techdsc
 
-An area for the policy paper coordinating committee to collaborate.
-
-Directories:
-
-- proposals: doc with all proposals collected, ported from openoffice
-- draft: policy paper draft + materials
+Curent version of [Technological Sovereignty](https://diem25.org/progressive-agenda-for-europe/#1499784427183-5d0dbe68-f40d) greenpaper (v2)
